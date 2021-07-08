@@ -14,3 +14,6 @@ terraform.rc
 
 # remote_backend
 remote_backend.tf
+
+# macOS files
+.DS_Store
