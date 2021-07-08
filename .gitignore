@@ -11,3 +11,6 @@
 # terraformrc file
 .terraformrc
 terraform.rc
+
+# remote_backend
+remote_backend.tf
